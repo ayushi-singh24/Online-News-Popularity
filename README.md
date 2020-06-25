@@ -1,0 +1,2 @@
+# Online-News-Popularity
+The objective of this project is to do a research and develop a methodology by building models for online News Popularity Analysis. By analysing, the factors or features on which shares depend. When does the number of share increase, which type of blog does consumer like . Whenever the number of shares are more those patterns will be analysed. Depending on these patterns action could be taken on understanding how the article should be and thus understanding the customer
